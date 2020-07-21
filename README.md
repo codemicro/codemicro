@@ -9,9 +9,9 @@ class Tom(Human):
 
     self.bio = """
 
-      I like doing quite a lot of stuff - from web or game dev to hardware
-      and electronics. If there're things to tinker with and stuff to
-      learn, I'll probably end up doing it.
+      I like doing quite a lot of stuff - from web dev or game related
+      projects to hardware and electronics. If there're things to
+      tinker with and stuff to learn, I'll probably end up doing it.
     
     """
 
