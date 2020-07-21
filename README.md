@@ -1,16 +1,33 @@
-### Hi there 👋
+![Hello! I'm Thomas Pain](https://github.com/codemicro/codemicro/blob/master/githubbanner-downscaled.png?raw=true)
 
-<!--
-**codemicro/codemicro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemicro&theme=dark" />
 
-Here are some ideas to get you started:
+```py
+class Tom(Human):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  def __init__(self):
+
+    self.bio = """
+
+      I like doing quite a lot of stuff - from web or game dev to hardware
+      and electronics. If there're things to tinker with and stuff to
+      learn, I'll probably end up doing it.
+    
+    """
+
+    self.languages = [Python, Go, CSharp, HtmlCss]
+    self.technologies = [AWS, Docker, Literal_Magic]
+    self.likes = ["Making things", "Learning", "Music", "Fancy stationery"]
+    self.dislikes = ["Wrangling with indentation", "Recursive functions",
+      "The cold"]
+    self.member_of = {
+      "RiceTeaCatPanda": "Organiser and developer",  # CTF creation team
+      "ProgPilot": "Player",  # My competitive CTF team
+      "The UK": "Resident"  # :uk:
+    }
+    self.site = "https://www.tdpain.net"
+```
+
+---
+Banner photo by [Jack Ward](https://unsplash.com/@jackward) on [Unsplash](https://unsplash.com/s/photos/forest-mountain)
+<br>Inspired by [@Thaiane](https://github.com/Thaiane)
