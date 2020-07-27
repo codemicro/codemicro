@@ -1,7 +1,5 @@
 ![Hello! I'm Thomas Pain](https://github.com/codemicro/codemicro/blob/master/githubbanner-downscaled.png?raw=true)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemicro&theme=dark" />
-
 ```py
 class Tom(Human):
 
@@ -27,6 +25,10 @@ class Tom(Human):
     }
     self.site = "https://www.tdpain.net"
 ```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemicro&hide=nesC,JavaScript&layout=compact&theme=dark" />
+</p>
 
 ---
 Banner photo by [Jack Ward](https://unsplash.com/@jackward) on [Unsplash](https://unsplash.com/s/photos/forest-mountain)
