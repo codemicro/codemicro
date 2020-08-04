@@ -26,6 +26,11 @@ class Tom(Human):
     self.site = "https://www.tdpain.net"
 ```
 
+<!-- Adding .gitattributes files to a load of repos means I can put this back. It's still behaving weirdly though -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemicro&hide=JavaScript&layout=compact&theme=dark" />
+</p>
+
 ---
 Banner photo by [Jack Ward](https://unsplash.com/@jackward) on [Unsplash](https://unsplash.com/s/photos/forest-mountain)
 <br>Inspired by [@Thaiane](https://github.com/Thaiane)
