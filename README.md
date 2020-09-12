@@ -14,10 +14,13 @@ class Tom(Human):
     """
 
     self.languages = [Python, Go, CSharp, HtmlCss]
-    self.technologies = [AWS, Docker, Literal_Magic]
+    self.technologies = [AWS, Docker, LiteralMagic]
     self.likes = ["Making things", "Learning", "Music", "Fancy stationery"]
     self.dislikes = ["Wrangling with indentation", "Recursive functions",
       "The cold"]
+    self.current_projects = {
+      "Project Sinensis": "https://github.com/riceteacatpanda/sinensis-api"
+    }
     self.member_of = {
       "RiceTeaCatPanda": "Organiser and developer",  # CTF creation team
       "ProgPilot": "Player",  # My competitive CTF team
