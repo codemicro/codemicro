@@ -32,7 +32,9 @@ class Tom(Human):
 
 <!-- Adding .gitattributes files to a load of repos means I can put this back. It's still behaving weirdly though -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemicro&hide=JavaScript&layout=compact&theme=dark" />
+  <img src="https://img.shields.io/endpoint?url=https://www.tdpain.net/api/commits">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemicro&hide=JavaScript&layout=compact&theme=dark">
 </p>
 
 ---
