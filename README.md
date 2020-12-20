@@ -24,7 +24,6 @@ class Tom(Human):
     self.member_of = {
       "RiceTeaCatPanda": "Organiser and developer",  # CTF creation team
       "ProgPilot": "Player",  # My competitive CTF team
-      "Gofiber": "Maintainer",
       "The UK": "Resident"
     }
     self.site = "https://www.tdpain.net"
