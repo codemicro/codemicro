@@ -19,7 +19,7 @@ class Tom(Human):
     self.dislikes = ["Wrangling with indentation", "Recursive functions",
       "The cold"]
     self.current_projects = {
-      "Project Sinensis": "https://github.com/riceteacatpanda/sinensis-api"
+      "Advent of Code 2020": "https://github.com/codemicro/adventOfCode"
     }
     self.member_of = {
       "RiceTeaCatPanda": "Organiser and developer",  # CTF creation team
