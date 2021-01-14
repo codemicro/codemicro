@@ -19,7 +19,7 @@ class Tom(Human):
     self.dislikes = ["Wrangling with indentation", "Recursive functions",
       "The cold"]
     self.current_projects = {
-      # Nothing big right now!
+      "Learning Haskell": "https://github.com/codemicro/haskellMooc"
     }
     self.member_of = {
       "RiceTeaCatPanda": "Organiser and developer",  # CTF creation team
