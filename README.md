@@ -13,11 +13,13 @@ class Tom(Human):
     
     """
 
-    self.languages = [Python, Go, CSharp, HtmlCss]
-    self.technologies = [AWS, Docker, LiteralMagic]
     self.likes = ["Making things", "Learning", "Music", "Fancy stationery"]
     self.dislikes = ["Wrangling with indentation", "Recursive functions",
       "The cold"]
+    self.pronouns = ["she/her", "he/him"]
+
+    self.languages = [Python, Go, CSharp, HtmlCss]
+    self.technologies = [AWS, Docker, LiteralMagic]
     self.current_projects = {
       "Learning Haskell": "https://github.com/codemicro/haskellMooc"
     }
