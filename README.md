@@ -39,4 +39,6 @@ class Tom(Human):
 
 ---
 Banner photo by [Jack Ward](https://unsplash.com/@jackward) on [Unsplash](https://unsplash.com/s/photos/forest-mountain)
-<br>Inspired by [@Thaiane](https://github.com/Thaiane)
+<br>Format inspired by [@Thaiane](https://github.com/Thaiane)
+<br>Commit count badge powered by [this](https://github.com/codemicro/githubCommitInfo)
+<br>Statistics powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
