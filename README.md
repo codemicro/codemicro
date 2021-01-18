@@ -32,7 +32,7 @@ class Tom(Human):
 
 <!-- Adding .gitattributes files to a load of repos means I can put this back. It's still behaving weirdly though -->
 <p align="center">
-  <a href="https://github.com/codemicro/githubCommitInfo"><img src="https://img.shields.io/endpoint?url=https://www.tdpain.net/api/commits"></a>
+  <a href="https://github.com/codemicro/githubCommitInfo"><img src="https://img.shields.io/endpoint?url=https://www.tdpain.net/api/commits&style=flat-square&color=blue"></a>
   <br>
   <img src="https://raw.githubusercontent.com/codemicro/codemicro/master/github-metrics.svg">
 </p>
