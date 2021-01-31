@@ -20,7 +20,8 @@ class Tom(Human):
     self.languages = [Python, Go, CSharp, HtmlCss]
     self.technologies = [AWS, Docker, LiteralMagic]
     self.current_projects = {
-      "Learning Haskell": "https://github.com/codemicro/haskellMooc"
+      "Learning Haskell": "https://github.com/codemicro/haskellMooc",
+      "Pi Pico macropad": "https://github.com/codemicro/macropad"
     }
     self.member_of = {
       "RiceTeaCatPanda": "Organiser and developer",  # CTF creation team
