@@ -21,7 +21,7 @@ class Tom(Human):
     self.technologies = [AWS, Docker, LiteralMagic]
     self.current_projects = {
       "Learning Haskell": "https://github.com/codemicro/haskellMooc",
-      "Pi Pico macropad": "https://github.com/codemicro/macropad"
+      "DIY macropad": "https://github.com/codemicro/macropad"
     }
     self.member_of = {
       "RiceTeaCatPanda": "Organiser and developer",  # CTF creation team
