@@ -22,7 +22,7 @@ class Tom(Human):
     self.languages = [Python, Go, CSharp, HtmlCss]
     self.technologies = [AWS, Docker, LiteralMagic]
     self.current_projects = {
-      "Learning Haskell": "https://github.com/codemicro/haskellMooc",
+      "Discord bot framework": "https://github.com/codemicro/dgo-toolkit",
       "DIY macropad": "https://github.com/codemicro/macropad"
     }
     self.member_of = {
