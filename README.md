@@ -24,11 +24,7 @@ class Tom(Human):
     self.current_projects = {
       # no active (public) projects
     }
-    self.member_of = {
-      "RiceTeaCatPanda": "Organiser and developer",  # CTF creation team
-      "ProgPilot": "Player",  # My competitive CTF team
-      "The UK": "Resident"
-    }
+
     self.site = "https://www.tdpain.net"
 ```
 
