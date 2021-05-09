@@ -19,8 +19,8 @@ class Tom(Human):
 
     self.pronouns = None
 
-    self.languages = [Python, Go, CSharp, HtmlCss]
-    self.technologies = [AWS, Docker, LiteralMagic]
+    self.languages = [Python, Go, HtmlCss]
+    self.technologies = [Docker, LiteralMagic]
     self.current_projects = {
       # no active (public) projects
     }
