@@ -17,7 +17,7 @@ class Tom(Human):
     self.dislikes = ["Wrangling with indentation", "Recursive functions",
       "The cold"]
 
-    self.pronouns = None
+    self.pronouns = None # use my name in place of he/him/etc ;)
 
     self.languages = [Python, Go, HtmlCss]
     self.technologies = [Docker, LiteralMagic]
