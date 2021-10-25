@@ -1,7 +1,7 @@
-![Hello! I'm Thomas Pain](https://github.com/codemicro/codemicro/blob/master/githubbanner-downscaled.png?raw=true)
+<!--![Hello! I'm Thomas Pain](https://github.com/codemicro/codemicro/blob/master/githubbanner-downscaled.png?raw=true)-->
 
 ```py
-class Tom(Human):
+class AKU(Human):
 
   def __init__(self):
 
@@ -24,11 +24,8 @@ class Tom(Human):
     self.current_projects = {
       # no active (public) projects
     }
-
-    self.site = "https://www.tdpain.net"
 ```
 
-<!-- Adding .gitattributes files to a load of repos means I can put this back. It's still behaving weirdly though -->
 <p align="center">
   <a href="https://github.com/codemicro/githubCommitInfo"><img src="https://img.shields.io/endpoint?url=https://www.tdpain.net/api/commits&style=flat-square&color=blue"></a>
   <br>
@@ -36,7 +33,7 @@ class Tom(Human):
 </p>
 
 ---
-Banner photo by [Jack Ward](https://unsplash.com/@jackward) on [Unsplash](https://unsplash.com/s/photos/forest-mountain)
-<br>Format inspired by [@Thaiane](https://github.com/Thaiane)
-<br>Commit count badge powered by [this](https://github.com/codemicro/githubCommitInfo)
-<br>Statistics powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
+<!--Banner photo by [Jack Ward](https://unsplash.com/@jackward) on [Unsplash](https://unsplash.com/s/photos/forest-mountain)<br>-->
+Format inspired by [@Thaiane](https://github.com/Thaiane)<br>
+Commit count badge powered by [this](https://github.com/codemicro/githubCommitInfo)<br>
+Statistics powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
