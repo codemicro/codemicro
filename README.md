@@ -1,7 +1,5 @@
-<!--![Hello! I'm Thomas Pain](https://github.com/codemicro/codemicro/blob/master/githubbanner-downscaled.png?raw=true)-->
-
 ```py
-class AKU(Human):
+class AKP(Human):
 
   def __init__(self):
 
