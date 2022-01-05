@@ -1,27 +1,23 @@
-```py
-class AKP(Human):
-
-  def __init__(self):
-
-    self.bio = """
-
-      I like doing quite a lot of stuff - from web dev or game related
-      projects to hardware and electronics. If there're things to
-      tinker with and stuff to learn, I'll probably end up doing it.
-    
-    """
-
-    self.likes = ["Making things", "Learning", "Music", "Fancy stationery"]
-    self.dislikes = ["Wrangling with indentation", "Recursive functions",
-      "The cold"]
-
-    self.pronouns = ["she/her"]
-
-    self.languages = [Python, Go, HtmlCss]
-    self.technologies = [Docker, LiteralMagic]
-    self.current_projects = {
-      # no active (public) projects
-    }
+```go
+akp := Human{
+  Bio: `
+    I like doing quite a lot of stuff - from web dev or game related
+    projects to hardware and electronics. If there're things to
+    thinker with and stuff to learn, I'll probably end up doing it.
+  `,
+  
+  Likes: []string{"Making things", "Learning", "Music", "Fancy stationery"},
+  Dislikes: []string{"Wrangling with indentation", "Recursive functions",
+      "The cold"},
+      
+  Pronouns: []string{"she/her"},
+  
+  Languages: []Language{Python, Go, HTMLCSS},
+  Technologies: []Technology{Docker, GitHubActions, LiteralMagic},
+  CurrentProjects: map[string]string{
+    // no active (public) projects
+  },
+}
 ```
 
 <p align="center">
