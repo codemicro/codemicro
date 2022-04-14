@@ -19,9 +19,6 @@ class AKP(Human):
 
     self.languages = [Python, Go, HtmlCss]
     self.technologies = [Docker, LiteralMagic]
-    self.current_projects = {
-      # no active (public) projects
-    }
 ```
 
 <p align="center">
