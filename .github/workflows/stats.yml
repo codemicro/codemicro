@@ -20,9 +20,6 @@ jobs:
           # Options
           user: codemicro
           template: classic
-          base: header, metadata
-          config_animated: yes
+          base: header
           config_timezone: Europe/London
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
