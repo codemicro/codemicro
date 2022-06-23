@@ -3,8 +3,6 @@ name: Stats
 on:
   # Schedule updates
   schedule: [{cron: "0 22 * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  push: {branches: ["master"]}
   workflow_dispatch:
 jobs:
   github-metrics:
