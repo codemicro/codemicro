@@ -5,7 +5,7 @@ class AKP(Human):
 
     self.bio = """
 
-      I like doing quite a lot of stuff - from web dev or game related
+      I like doing quite a lot of stuff - from web dev or systems-level
       projects to hardware and electronics. If there're things to
       tinker with and stuff to learn, I'll probably end up doing it.
     
