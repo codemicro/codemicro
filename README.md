@@ -22,9 +22,6 @@ class AKP(Human):
 ```
 
 <p align="center">
-  <a href="https://github.com/codemicro/githubCommitInfo"><img src="https://img.shields.io/endpoint?url=https://www.tdpain.net/api/commits&style=flat-square&color=blue"></a>
-  <a href="https://wakatime.com/@ce983de0-c402-415f-a010-e80df82608cf"><img src="https://wakatime.com/badge/user/ce983de0-c402-415f-a010-e80df82608cf.svg?style=flat-square" alt="Total time coded since Feb 7 2022" /></a>
-  <br>
   <img src="https://raw.githubusercontent.com/codemicro/codemicro/master/github-metrics.svg">
 </p>
 
