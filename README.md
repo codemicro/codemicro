@@ -18,7 +18,7 @@ class AKP(Human):
     self.pronouns = ["she/her"]
 
     self.languages = [Python, Go, HtmlCss]
-    self.technologies = [Docker, LiteralMagic]
+    self.technologies = [Docker, Ansible, LiteralMagic]
 ```
 
 <p align="center">
