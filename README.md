@@ -1,3 +1,5 @@
+Heads up! Most of code primarily goes on [git.tdpain.net](https://git.tdpain.net) as opposed to Github, but some is mirrored here.
+
 ```py
 class AKP(Human):
 
